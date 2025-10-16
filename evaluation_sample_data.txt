@@ -1,0 +1,445 @@
+{
+  "_id": {
+    "$oid": "68f06aea7ac2a57fe283203b"
+  },
+  "evaluationId": "EVAL-16102025-545940",
+  "enquiry_id": "ENQ25009754",
+  "enquiry_type": "Exchange",
+  "dealer_code": "5106-51:BTR",
+  "customerType": "H",
+  "enquiry_new_car_model": "",
+  "enquiry_new_car_variant": "",
+  "reg_number_found_in_dms": false,
+  "isFinalSubmission": false,
+  "status": "INPROGRESS",
+  "mspin": "1189358",
+  "evalName": "ABHISEKH KUMAR",
+  "registrationNumber": "TEMP875381",
+  "car_condition": "non-scrap",
+  "dealerParent": "PREMS",
+  "stageCode": "INITIAL_STAGE",
+  "evaluationStages": [],
+  "generic_images": [],
+  "exterior_images": [],
+  "rating": {
+    "comment": "NA"
+  },
+  "offlineMode": false,
+  "dmsEnquiryId": "ENQ25009754",
+  "enquiry_source": "References",
+  "enquirySourceCode": "REF",
+  "isReEvaluated": false,
+  "offerPending": true,
+  "search_with_vin": "MA3EJKD1S00875381",
+  "evaluator_designation": "Evaluator (Visiting)",
+  "evaluator_mobile_number": "9504450082",
+  "customerMobileNumberFromAssignedEnquiry": "8804862305",
+  "isWorkshop": false,
+  "dmsMessage": "",
+  "dmsStatus": "INPROGRESS",
+  "createdDate": {
+    "$date": "2025-10-16T03:47:54.053Z"
+  },
+  "modifiedDate": {
+    "$date": "2025-10-16T03:47:54.053Z"
+  },
+  "createdBy": "admin",
+  "modifiedBy": "admin",
+  "_class": "com.maruti.trv.domain.entities.Evaluation",
+  "dealerInfo": {
+    "dealerMapCode": "11650",
+    "cityCode": "003",
+    "stateDesc": "Jharkhand",
+    "cityDesc": "RANCHI",
+    "address": "NEAR DAV BARIATU",
+    "phone": "9308212121",
+    "name": "PREMSONS MOTOR UDYOG PVT. LTD.",
+    "locCode": "BTR",
+    "regionCd": "E2",
+    "forCode": "51",
+    "outletCode": "0A",
+    "region": "EAST 2",
+    "pin": "834009",
+    "stateCd": "JH",
+    "zone": "E",
+    "muleCode": "5106",
+    "parentGroup": "PREMS",
+    "compFa": "PMPL",
+    "location": "BARIATU ROAD,RANCHI-SAL",
+    "compCd": "PMPL"
+  }
+}
+
+
+
+
+
+
+
+
+
+{
+  "_id": {
+    "$oid": "68f06adba6285950fdfbdbfc"
+  },
+  "evaluationId": "EVAL-16102025-545939",
+  "enquiry_id": "ENQ25006463",
+  "enquiry_type": "Exchange",
+  "dealer_code": "35NA-35:JAN",
+  "customerType": "H",
+  "enquiry_new_car_model": "",
+  "enquiry_new_car_variant": "",
+  "reg_number_found_in_dms": false,
+  "isFinalSubmission": false,
+  "status": "INPROGRESS",
+  "mspin": "1231973",
+  "evalName": "AMIT KUMAR GAMBHIR",
+  "registrationNumber": "PB10GB6138",
+  "car_condition": "non-scrap",
+  "dealerParent": "LOVEL",
+  "stageCode": "INITIAL_STAGE",
+  "evaluationStages": [],
+  "generic_images": [],
+  "exterior_images": [],
+  "rating": {
+    "comment": "NA"
+  },
+  "offlineMode": false,
+  "dmsEnquiryId": "ENQ25006463",
+  "enquiry_source": "References",
+  "enquirySourceCode": "REF",
+  "isReEvaluated": false,
+  "offerPending": true,
+  "search_with_vin": "",
+  "evaluator_designation": "Evaluator (Visiting)",
+  "evaluator_mobile_number": "9875916889",
+  "customerMobileNumberFromAssignedEnquiry": "9876064686",
+  "isWorkshop": false,
+  "dmsMessage": "",
+  "dmsStatus": "INPROGRESS",
+  "createdDate": {
+    "$date": "2025-10-16T03:47:39.653Z"
+  },
+  "modifiedDate": {
+    "$date": "2025-10-16T03:47:39.653Z"
+  },
+  "createdBy": "admin",
+  "modifiedBy": "admin",
+  "_class": "com.maruti.trv.domain.entities.Evaluation",
+  "dealerInfo": {
+    "dealerMapCode": "12543",
+    "cityCode": "078",
+    "stateDesc": "Punjab",
+    "cityDesc": "JALANDHAR",
+    "address": "NAKODAR CHOWK,",
+    "phone": "9915020424",
+    "name": "LOVELY AUTOS",
+    "locCode": "JAN",
+    "regionCd": "N2",
+    "forCode": "35",
+    "outletCode": "0A",
+    "region": "NORTH 2",
+    "pin": "144001",
+    "stateCd": "PJ",
+    "zone": "N",
+    "muleCode": "35NA",
+    "parentGroup": "LOVEL",
+    "compFa": "LOVE",
+    "location": "JALANDHAR-S(Nexa)",
+    "compCd": "LOVE"
+  }
+}
+
+
+
+
+
+{
+  "_id": {
+    "$oid": "68f06ad87ac2a57fe2832039"
+  },
+  "evaluationId": "EVAL-16102025-545938",
+  "enquiry_id": "ENQ-16102025-2314397",
+  "enquiry_type": "OldCarSeller",
+  "dealer_code": "A8TB-A8:BLJ",
+  "reg_number_found_in_dms": false,
+  "isFinalSubmission": false,
+  "status": "INPROGRESS",
+  "mspin": "1279902",
+  "evalName": "SHAIK RAFI AHMED",
+  "registrationNumber": "AP39KV6697",
+  "car_condition": "non-scrap",
+  "dealerParent": "VISHN",
+  "stageCode": "INITIAL_STAGE",
+  "evaluationStages": [],
+  "generic_images": [],
+  "exterior_images": [],
+  "rating": {
+    "comment": "NA"
+  },
+  "offlineMode": false,
+  "enquiry_source": "Showroom Walk-In",
+  "enquirySourceCode": "WLK",
+  "isReEvaluated": false,
+  "offerPending": true,
+  "search_with_vin": "",
+  "evaluator_designation": "Evaluator (Visiting)",
+  "evaluator_mobile_number": "7995088862",
+  "isWorkshop": false,
+  "dmsMessage": "",
+  "dmsStatus": "INPROGRESS",
+  "createdDate": {
+    "$date": "2025-10-16T03:47:36.030Z"
+  },
+  "modifiedDate": {
+    "$date": "2025-10-16T03:47:36.030Z"
+  },
+  "createdBy": "admin",
+  "modifiedBy": "admin",
+  "_class": "com.maruti.trv.domain.entities.Evaluation",
+  "dealerInfo": {
+    "dealerMapCode": "50722",
+    "cityCode": "204",
+    "stateDesc": "Andhra Pradesh",
+    "cityDesc": "NELLORE",
+    "address": "SURVEY NO.628,BALAJI NAGAR,",
+    "phone": "9677220088",
+    "name": "VISHNU CARS PVT. LTD.",
+    "locCode": "BLJ",
+    "regionCd": "T1",
+    "forCode": "A8",
+    "outletCode": "0T",
+    "region": "SOUTH EAST 1",
+    "pin": "524004",
+    "stateCd": "AP",
+    "zone": "T",
+    "muleCode": "A8TB",
+    "parentGroup": "VISHN",
+    "compFa": "VISH",
+    "location": "BALAJI NAGAR-TV",
+    "compCd": "VISH"
+  }
+}
+
+
+
+
+
+{
+  "_id": {
+    "$oid": "68f06ad3a6285950fdfbdbf9"
+  },
+  "evaluationId": "EVAL-16102025-545937",
+  "enquiry_id": "ENQ25004284",
+  "enquiry_type": "Exchange",
+  "dealer_code": "4006-40:SUR",
+  "customerType": "H",
+  "enquiry_new_car_model": "",
+  "enquiry_new_car_variant": "",
+  "reg_number_found_in_dms": false,
+  "isFinalSubmission": false,
+  "status": "INPROGRESS",
+  "mspin": "575782",
+  "evalName": "ANKIT BHARATBHAI PATEL",
+  "registrationNumber": "GJ05RF3951",
+  "car_condition": "non-scrap",
+  "dealerParent": "COMET",
+  "stageCode": "INITIAL_STAGE",
+  "evaluationStages": [],
+  "generic_images": [],
+  "exterior_images": [],
+  "rating": {
+    "comment": "NA"
+  },
+  "offlineMode": false,
+  "dmsEnquiryId": "ENQ25004284",
+  "enquiry_source": "References",
+  "enquirySourceCode": "REF",
+  "isReEvaluated": false,
+  "offerPending": true,
+  "search_with_vin": "",
+  "evaluator_designation": "Evaluator (Visiting)",
+  "evaluator_mobile_number": "9824637804",
+  "customerMobileNumberFromAssignedEnquiry": "9737588884",
+  "isWorkshop": false,
+  "dmsMessage": "",
+  "dmsStatus": "INPROGRESS",
+  "createdDate": {
+    "$date": "2025-10-16T03:47:31.064Z"
+  },
+  "modifiedDate": {
+    "$date": "2025-10-16T03:47:31.064Z"
+  },
+  "createdBy": "admin",
+  "modifiedBy": "admin",
+  "_class": "com.maruti.trv.domain.entities.Evaluation",
+  "dealerInfo": {
+    "dealerMapCode": "11343",
+    "cityCode": "081",
+    "stateDesc": "Gujarat",
+    "cityDesc": "SURAT",
+    "address": "CHIKUWADI COMPLEX, GHB ROAD",
+    "phone": "0261-289041",
+    "name": "COMET CAR SALES & SERVICE PVT LTD",
+    "locCode": "SUR",
+    "regionCd": "W3",
+    "forCode": "40",
+    "outletCode": "0A",
+    "region": "WEST 3",
+    "pin": "394220",
+    "stateCd": "GJ",
+    "zone": "W",
+    "muleCode": "4006",
+    "parentGroup": "COMET",
+    "compFa": "CCSS",
+    "location": "SURAT-SAL",
+    "compCd": "CCSS"
+  }
+}
+
+
+
+{
+  "_id": {
+    "$oid": "68f06ad1a6285950fdfbdbf8"
+  },
+  "evaluationId": "EVAL-16102025-545936",
+  "enquiry_id": "ENQ25010822",
+  "enquiry_type": "Exchange",
+  "dealer_code": "3908-39:MAR",
+  "customerType": "H",
+  "enquiry_new_car_model": "",
+  "enquiry_new_car_variant": "",
+  "reg_number_found_in_dms": false,
+  "isFinalSubmission": false,
+  "status": "INPROGRESS",
+  "mspin": "1386308",
+  "evalName": "ASHUTOSH KAMBLE",
+  "registrationNumber": "MH05CM4435",
+  "car_condition": "non-scrap",
+  "dealerParent": "NAVNI",
+  "stageCode": "INITIAL_STAGE",
+  "evaluationStages": [],
+  "generic_images": [],
+  "exterior_images": [],
+  "rating": {
+    "comment": "NA"
+  },
+  "offlineMode": false,
+  "dmsEnquiryId": "ENQ25010822",
+  "enquiry_source": "References",
+  "enquirySourceCode": "REF",
+  "isReEvaluated": false,
+  "offerPending": true,
+  "search_with_vin": "",
+  "evaluator_designation": "Evaluator (Visiting)",
+  "evaluator_mobile_number": "9167106714",
+  "customerMobileNumberFromAssignedEnquiry": "9867130507",
+  "isWorkshop": false,
+  "dmsMessage": "",
+  "dmsStatus": "INPROGRESS",
+  "createdDate": {
+    "$date": "2025-10-16T03:47:29.667Z"
+  },
+  "modifiedDate": {
+    "$date": "2025-10-16T03:47:29.667Z"
+  },
+  "createdBy": "admin",
+  "modifiedBy": "admin",
+  "_class": "com.maruti.trv.domain.entities.Evaluation",
+  "dealerInfo": {
+    "dealerMapCode": "10034",
+    "cityCode": "105",
+    "stateDesc": "Maharashtra",
+    "cityDesc": "THANE",
+    "address": "NAVNIT HOUSE, GOKUL NAGAR",
+    "phone": "41556610",
+    "name": "NAVNIT MOTORS PVT LTD",
+    "locCode": "MAR",
+    "regionCd": "W1",
+    "forCode": "39",
+    "outletCode": "0A",
+    "region": "WEST 1",
+    "pin": "400601",
+    "stateCd": "MH",
+    "zone": "W",
+    "muleCode": "3908",
+    "parentGroup": "NAVNI",
+    "compFa": "NAVN",
+    "location": "MUMBAI AGRA ROAD",
+    "compCd": "NAVN"
+  }
+}
+
+
+{
+  "_id": {
+    "$oid": "68f06ac995253671aec43fb8"
+  },
+  "evaluationId": "EVAL-16102025-545935",
+  "enquiry_id": "ENQ25009754",
+  "enquiry_type": "Exchange",
+  "dealer_code": "5106-51:BTR",
+  "customerType": "H",
+  "enquiry_new_car_model": "",
+  "enquiry_new_car_variant": "",
+  "reg_number_found_in_dms": false,
+  "isFinalSubmission": false,
+  "status": "INPROGRESS",
+  "mspin": "1189358",
+  "evalName": "ABHISEKH KUMAR",
+  "registrationNumber": "JH01BX5831",
+  "car_condition": "non-scrap",
+  "dealerParent": "PREMS",
+  "stageCode": "INITIAL_STAGE",
+  "evaluationStages": [],
+  "generic_images": [],
+  "exterior_images": [],
+  "rating": {
+    "comment": "NA"
+  },
+  "offlineMode": false,
+  "dmsEnquiryId": "ENQ25009754",
+  "enquiry_source": "References",
+  "enquirySourceCode": "REF",
+  "isReEvaluated": false,
+  "offerPending": true,
+  "search_with_vin": "",
+  "evaluator_designation": "Evaluator (Visiting)",
+  "evaluator_mobile_number": "9504450082",
+  "customerMobileNumberFromAssignedEnquiry": "8804862305",
+  "isWorkshop": false,
+  "dmsMessage": "",
+  "dmsStatus": "INPROGRESS",
+  "createdDate": {
+    "$date": "2025-10-16T03:47:21.262Z"
+  },
+  "modifiedDate": {
+    "$date": "2025-10-16T03:47:21.262Z"
+  },
+  "createdBy": "admin",
+  "modifiedBy": "admin",
+  "_class": "com.maruti.trv.domain.entities.Evaluation",
+  "dealerInfo": {
+    "dealerMapCode": "11650",
+    "cityCode": "003",
+    "stateDesc": "Jharkhand",
+    "cityDesc": "RANCHI",
+    "address": "NEAR DAV BARIATU",
+    "phone": "9308212121",
+    "name": "PREMSONS MOTOR UDYOG PVT. LTD.",
+    "locCode": "BTR",
+    "regionCd": "E2",
+    "forCode": "51",
+    "outletCode": "0A",
+    "region": "EAST 2",
+    "pin": "834009",
+    "stateCd": "JH",
+    "zone": "E",
+    "muleCode": "5106",
+    "parentGroup": "PREMS",
+    "compFa": "PMPL",
+    "location": "BARIATU ROAD,RANCHI-SAL",
+    "compCd": "PMPL"
+  }
+}
