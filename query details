@@ -1,0 +1,43 @@
+select * from public.otp_details where contact_info = '1394120'
+
+
+
+SELECT * FROM public.partner_master where external_id ='1399491'
+
+SELECT * FROM public.partner_master where id ='181050'
+
+delete FROM public.partner_master where id ='181050'
+
+
+SELECT * FROM public.partner_attributes where partner_id ='181050'
+
+delete FROM public.partner_attributes where partner_id ='181050'
+
+
+
+SELECT * FROM public.partner_user_master where partner = '181050'
+
+delete FROM public.partner_user_master where partner = '181050'
+
+stop here and execute above query and copy pk id and pass in fkid 
+
+
+SELECT * FROM public.auth_group_users where user_fkid ='152172'
+
+delete FROM public.auth_group_users where user_fkid ='152172'
+
+
+
+SELECT * FROM public.authorization_attributes where partner_id ='181050'
+
+delete FROM public.authorization_attributes where partner_id ='181050'
+
+
+
+
+SELECT * FROM public.partner_relation where partner2 ='181050'
+
+delete FROM public.partner_relation where partner2 ='181050'
+
+
+
