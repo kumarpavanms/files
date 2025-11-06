@@ -40,4 +40,10 @@ SELECT * FROM public.partner_relation where partner2 ='181050'
 delete FROM public.partner_relation where partner2 ='181050'
 
 
+trveprodcluster.ywgqc.mongodb.net
+
+trveprodcluster.ywgqc.mongodb.net
+
+archive 
+oa-arch-6448b3aaa1faf247eb1080de-ywgqc-vpce-0c05bd39f69908642.a-pl.query.mongodb.net
 
