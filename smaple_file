@@ -1,109 +1,1108 @@
 {
-
-  "buyingId": {
-
-    "$in": [
-
-      "B24016575461",
-
-      "B25017161614",
-
-      "B25017169386",
-
-      "B25017308596",
-
-      "B25017143780",
-
-      "B25017272397",
-
-      "B25017339958",
-
-      "B25017302875",
-
-      "B25017168237",
-
-      "B25017357358",
-
-      "B25017264952",
-
-      "B25017400696",
-
-      "B25017501474",
-
-      "B25017446785",
-
-      "B25017449640",
-
-      "B25017451312",
-
-      "B25017445469",
-
-      "B25017633334",
-
-      "B25017668346",
-
-      "B25017704249",
-
-      "B25017721958",
-
-      "B25017308387",
-
-      "B25017547411",
-
-      "B25017434010",
-
-      "B25016929314",
-
-      "B25017499470",
-
-      "B25017480376",
-
-      "B25017604569",
-
-      "B25017463812",
-
-      "B25017026317",
-
-      "B25017380576",
-
-      "B25017277545",
-
-      "B25017668387",
-
-      "B24015902695",
-
-      "B25016743605",
-
-      "B25017457996",
-
-      "B25017064083",
-
-      "B24014680170",
-
-      "B24014674019",
-
-      "B25017208510",
-
-      "B24015033915",
-
-      "B25017460832",
-
-      "B25017307424",
-
-      "B24014682018",
-
-      "B24015074204",
-
-      "B24015372569",
-
-      "B23012443504",
-
-      "B24014906772"
-
-    ]
-
-  }
-
+  "_id": "B25017064083561381",
+  "quote_Id": "Q-9J37TODFpT",
+  "certification_id": "CERT-23082025-1326675MPN561381",
+  "certification_number": "CERT-23082025-1326675",
+  "evaluationId": "EVAL-14062025-932343",
+  "enquiry_id": "ENQ-14062025-1937648",
+  "enquiry_type": "Exchange",
+  "dealer_code": "01TC-01:APN",
+  "dealerParent": "KIRAN",
+  "enquiry_new_car_model": "NEW BREZZA",
+  "enquiry_new_car_variant": "MARUTI BREZZA LXI CNG 1.5L 5MT",
+  "reg_number_found_in_dms": true,
+  "isFinalSubmission": true,
+  "status": "SUBMITTED",
+  "mspin": "561381",
+  "registrationNumber": "GJ38BD5536",
+  "car_condition": "non-scrap",
+  "buying_id": "B25017064083",
+  "stageCode": "RATING_AND_SUBMISSION",
+  "certificationStages": [
+    "CAR_DETAILS",
+    "EXTERIOR_TYRES",
+    "ELECTRICAL_INTERIOR",
+    "ENGINE_TRANSMISSION",
+    "FUNCTIONS",
+    "FRAMES",
+    "REFURBISHMENT_COST",
+    "RATING_AND_SUBMISSION"
+  ],
+  "generic_images": [
+    {
+      "documentCategory": "CERTIFICATION",
+      "documentType": "CHASSIS",
+      "documentName": "CHASSIS",
+      "fileName": "b4256b93-2d82-40e8-9131-1ca19151a1d6.JPEG",
+      "fileExtension": "JPEG",
+      "fileType": "Image",
+      "tempS3Key": "prod/561381/CERT-23082025-1326675MPN561381/b4256b93-2d82-40e8-9131-1ca19151a1d6.JPEG",
+      "fixedS3Key": "prod/561381/CERT-23082025-1326675MPN561381/b4256b93-2d82-40e8-9131-1ca19151a1d6.JPEG",
+      "tempS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/b4256b93-2d82-40e8-9131-1ca19151a1d6.JPEG",
+      "fixedS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/b4256b93-2d82-40e8-9131-1ca19151a1d6.JPEG",
+      "fixedS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/b4256b93-2d82-40e8-9131-1ca19151a1d6.JPEG?response-content-disposition=inline%3B%20filename%3D%22b4256b93-2d82-40e8-9131-1ca19151a1d6.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250830T125729Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250830%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=4eca06e5bae21ac4a7f881ba4d981111eedc6919ff17d27889cda6cee973f882",
+      "tempS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/b4256b93-2d82-40e8-9131-1ca19151a1d6.JPEG?response-content-disposition=inline%3B%20filename%3D%22b4256b93-2d82-40e8-9131-1ca19151a1d6.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250823T125142Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250823%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=6060a64fc282ec9023e9c35c3951a9a24e77f6a1f38c99980238f62730a1bb8e",
+      "fixedS3PresignedUrlExpDt": {
+        "$date": "2025-09-06T12:57:29.647Z"
+      },
+      "tempS3PresignedUrlExpDt": {
+        "$date": "2025-08-30T12:51:42.890Z"
+      }
+    },
+    {
+      "documentCategory": "CERTIFICATION",
+      "documentType": "RC",
+      "documentName": "FRONT",
+      "fileName": "b192e889-31b5-4749-89d8-13a6f4290b81.JPEG",
+      "fileExtension": "JPEG",
+      "fileType": "Image",
+      "tempS3Key": "prod/561381/CERT-23082025-1326675MPN561381/b192e889-31b5-4749-89d8-13a6f4290b81.JPEG",
+      "fixedS3Key": "prod/561381/CERT-23082025-1326675MPN561381/b192e889-31b5-4749-89d8-13a6f4290b81.JPEG",
+      "tempS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/b192e889-31b5-4749-89d8-13a6f4290b81.JPEG",
+      "fixedS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/b192e889-31b5-4749-89d8-13a6f4290b81.JPEG",
+      "fixedS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/b192e889-31b5-4749-89d8-13a6f4290b81.JPEG?response-content-disposition=inline%3B%20filename%3D%22b192e889-31b5-4749-89d8-13a6f4290b81.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250829T132042Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250829%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=d81c8c50e04f3bc8b4e08bef51d14f1d7c79bf07ca8f0cfa0114b74b110d02a0",
+      "tempS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/b192e889-31b5-4749-89d8-13a6f4290b81.JPEG?response-content-disposition=inline%3B%20filename%3D%22b192e889-31b5-4749-89d8-13a6f4290b81.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250829T132042Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250829%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=d81c8c50e04f3bc8b4e08bef51d14f1d7c79bf07ca8f0cfa0114b74b110d02a0",
+      "fixedS3PresignedUrlExpDt": {
+        "$date": "2025-09-05T13:20:42.340Z"
+      },
+      "tempS3PresignedUrlExpDt": {
+        "$date": "2025-09-05T13:20:42.340Z"
+      }
+    },
+    {
+      "documentCategory": "CERTIFICATION",
+      "documentType": "RC",
+      "documentName": "BACK",
+      "fileName": "746f2046-d9b2-4025-89d7-fd0d3aa6eb6f.JPEG",
+      "fileExtension": "JPEG",
+      "fileType": "Image",
+      "tempS3Key": "prod/561381/CERT-23082025-1326675MPN561381/746f2046-d9b2-4025-89d7-fd0d3aa6eb6f.JPEG",
+      "fixedS3Key": "prod/561381/CERT-23082025-1326675MPN561381/746f2046-d9b2-4025-89d7-fd0d3aa6eb6f.JPEG",
+      "tempS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/746f2046-d9b2-4025-89d7-fd0d3aa6eb6f.JPEG",
+      "fixedS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/746f2046-d9b2-4025-89d7-fd0d3aa6eb6f.JPEG",
+      "fixedS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/746f2046-d9b2-4025-89d7-fd0d3aa6eb6f.JPEG?response-content-disposition=inline%3B%20filename%3D%22746f2046-d9b2-4025-89d7-fd0d3aa6eb6f.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250829T132049Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250829%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=1fc7842ae588e9004590f1657133effe5a22fa72ca9a4e534075eecd23c77663",
+      "tempS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/746f2046-d9b2-4025-89d7-fd0d3aa6eb6f.JPEG?response-content-disposition=inline%3B%20filename%3D%22746f2046-d9b2-4025-89d7-fd0d3aa6eb6f.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250829T132049Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250829%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=1fc7842ae588e9004590f1657133effe5a22fa72ca9a4e534075eecd23c77663",
+      "fixedS3PresignedUrlExpDt": {
+        "$date": "2025-09-05T13:20:49.459Z"
+      },
+      "tempS3PresignedUrlExpDt": {
+        "$date": "2025-09-05T13:20:49.459Z"
+      }
+    },
+    {
+      "documentCategory": "CERTIFICATION",
+      "documentType": "INTERIOR",
+      "documentName": "ODOMETER",
+      "fileName": "60188509-b600-4e25-82d1-d6207b9516fe.JPEG",
+      "fileExtension": "JPEG",
+      "fileType": "Image",
+      "tempS3Key": "prod/561381/CERT-23082025-1326675MPN561381/60188509-b600-4e25-82d1-d6207b9516fe.JPEG",
+      "fixedS3Key": "prod/561381/CERT-23082025-1326675MPN561381/60188509-b600-4e25-82d1-d6207b9516fe.JPEG",
+      "tempS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/60188509-b600-4e25-82d1-d6207b9516fe.JPEG",
+      "fixedS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/60188509-b600-4e25-82d1-d6207b9516fe.JPEG",
+      "fixedS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/60188509-b600-4e25-82d1-d6207b9516fe.JPEG?response-content-disposition=inline%3B%20filename%3D%2260188509-b600-4e25-82d1-d6207b9516fe.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250829T122344Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250829%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=71b7994ec1ac02bb0b57262915aacac3a114b655080622301a1621291c1fe8ee",
+      "tempS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/60188509-b600-4e25-82d1-d6207b9516fe.JPEG?response-content-disposition=inline%3B%20filename%3D%2260188509-b600-4e25-82d1-d6207b9516fe.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250829T122344Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250829%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=71b7994ec1ac02bb0b57262915aacac3a114b655080622301a1621291c1fe8ee",
+      "fixedS3PresignedUrlExpDt": {
+        "$date": "2025-09-05T12:23:44.597Z"
+      },
+      "tempS3PresignedUrlExpDt": {
+        "$date": "2025-09-05T12:23:44.597Z"
+      }
+    },
+    {
+      "documentCategory": "CERTIFICATION",
+      "documentType": "INTERIOR",
+      "documentName": "IMAGE_NUMBER1",
+      "fileName": "6b932846-d150-4ac6-b266-20d7817dba4e.JPEG",
+      "fileExtension": "JPEG",
+      "fileType": "Image",
+      "tempS3Key": "prod/561381/CERT-23082025-1326675MPN561381/6b932846-d150-4ac6-b266-20d7817dba4e.JPEG",
+      "fixedS3Key": "prod/561381/CERT-23082025-1326675MPN561381/6b932846-d150-4ac6-b266-20d7817dba4e.JPEG",
+      "tempS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/6b932846-d150-4ac6-b266-20d7817dba4e.JPEG",
+      "fixedS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/6b932846-d150-4ac6-b266-20d7817dba4e.JPEG",
+      "fixedS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/6b932846-d150-4ac6-b266-20d7817dba4e.JPEG?response-content-disposition=inline%3B%20filename%3D%226b932846-d150-4ac6-b266-20d7817dba4e.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250829T122416Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250829%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=0c8945c24c50fcba15cfe4076d826a5ec2c789416c0c9f7648d17de44887ddea",
+      "tempS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/6b932846-d150-4ac6-b266-20d7817dba4e.JPEG?response-content-disposition=inline%3B%20filename%3D%226b932846-d150-4ac6-b266-20d7817dba4e.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250829T122416Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250829%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=0c8945c24c50fcba15cfe4076d826a5ec2c789416c0c9f7648d17de44887ddea",
+      "fixedS3PresignedUrlExpDt": {
+        "$date": "2025-09-05T12:24:16.127Z"
+      },
+      "tempS3PresignedUrlExpDt": {
+        "$date": "2025-09-05T12:24:16.127Z"
+      }
+    },
+    {
+      "documentCategory": "CERTIFICATION",
+      "documentType": "ENGINE",
+      "documentName": "ENGINE",
+      "fileName": "f6e7c42d-d285-4af6-9215-ee01fe9ffebc.JPEG",
+      "fileExtension": "JPEG",
+      "fileType": "Image",
+      "tempS3Key": "prod/561381/CERT-23082025-1326675MPN561381/f6e7c42d-d285-4af6-9215-ee01fe9ffebc.JPEG",
+      "fixedS3Key": "prod/561381/CERT-23082025-1326675MPN561381/f6e7c42d-d285-4af6-9215-ee01fe9ffebc.JPEG",
+      "tempS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/f6e7c42d-d285-4af6-9215-ee01fe9ffebc.JPEG",
+      "fixedS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/f6e7c42d-d285-4af6-9215-ee01fe9ffebc.JPEG",
+      "fixedS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/f6e7c42d-d285-4af6-9215-ee01fe9ffebc.JPEG?response-content-disposition=inline%3B%20filename%3D%22f6e7c42d-d285-4af6-9215-ee01fe9ffebc.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250829T122752Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250829%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=0bde3f84c5fe7c283cfaa8104a148ff537f0ab43473f2531806e404b56291b82",
+      "tempS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/f6e7c42d-d285-4af6-9215-ee01fe9ffebc.JPEG?response-content-disposition=inline%3B%20filename%3D%22f6e7c42d-d285-4af6-9215-ee01fe9ffebc.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250829T122752Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250829%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=0bde3f84c5fe7c283cfaa8104a148ff537f0ab43473f2531806e404b56291b82",
+      "fixedS3PresignedUrlExpDt": {
+        "$date": "2025-09-05T12:27:52.087Z"
+      },
+      "tempS3PresignedUrlExpDt": {
+        "$date": "2025-09-05T12:27:52.087Z"
+      }
+    },
+    {
+      "documentCategory": "CERTIFICATION",
+      "documentType": "FRAMES",
+      "documentName": "IMAGE_NUMBER1",
+      "fileName": "9cc76911-aeb8-4289-81a1-55aebf7df0a9.JPEG",
+      "fileExtension": "JPEG",
+      "fileType": "Image",
+      "tempS3Key": "prod/561381/CERT-23082025-1326675MPN561381/9cc76911-aeb8-4289-81a1-55aebf7df0a9.JPEG",
+      "fixedS3Key": "prod/561381/CERT-23082025-1326675MPN561381/9cc76911-aeb8-4289-81a1-55aebf7df0a9.JPEG",
+      "tempS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/9cc76911-aeb8-4289-81a1-55aebf7df0a9.JPEG",
+      "fixedS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/9cc76911-aeb8-4289-81a1-55aebf7df0a9.JPEG",
+      "fixedS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/9cc76911-aeb8-4289-81a1-55aebf7df0a9.JPEG?response-content-disposition=inline%3B%20filename%3D%229cc76911-aeb8-4289-81a1-55aebf7df0a9.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250830T125729Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250830%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=6cf9f9b8621cbce927fd31f9e6e18377e2d97ec069be80e3b53a56982f988532",
+      "tempS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/9cc76911-aeb8-4289-81a1-55aebf7df0a9.JPEG?response-content-disposition=inline%3B%20filename%3D%229cc76911-aeb8-4289-81a1-55aebf7df0a9.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250823T125622Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250823%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=0a96dd08483e7e7e1c7fd3e3fbf6a48cfb0842b5c2497aad36dd72f369cc43fb",
+      "fixedS3PresignedUrlExpDt": {
+        "$date": "2025-09-06T12:57:29.663Z"
+      },
+      "tempS3PresignedUrlExpDt": {
+        "$date": "2025-08-30T12:56:22.637Z"
+      }
+    },
+    {
+      "documentCategory": "CERTIFICATION",
+      "documentType": "EXTERIOR",
+      "documentName": "EXTERIOR_LEFT",
+      "fileName": "4bb0dba8-439e-46e6-bc8a-93249a3d1b9b.JPEG",
+      "fileExtension": "JPEG",
+      "fileType": "Image",
+      "tempS3Key": "prod/561381/CERT-23082025-1326675MPN561381/4bb0dba8-439e-46e6-bc8a-93249a3d1b9b.JPEG",
+      "fixedS3Key": "prod/561381/CERT-23082025-1326675MPN561381/4bb0dba8-439e-46e6-bc8a-93249a3d1b9b.JPEG",
+      "tempS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/4bb0dba8-439e-46e6-bc8a-93249a3d1b9b.JPEG",
+      "fixedS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/4bb0dba8-439e-46e6-bc8a-93249a3d1b9b.JPEG",
+      "fixedS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/4bb0dba8-439e-46e6-bc8a-93249a3d1b9b.JPEG?response-content-disposition=inline%3B%20filename%3D%224bb0dba8-439e-46e6-bc8a-93249a3d1b9b.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250829T122141Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250829%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=f0d093adaa8391daea55f4dcfabfbdab55c7ca2b1c3521e5ef91b926e7598136",
+      "tempS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/4bb0dba8-439e-46e6-bc8a-93249a3d1b9b.JPEG?response-content-disposition=inline%3B%20filename%3D%224bb0dba8-439e-46e6-bc8a-93249a3d1b9b.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250829T122141Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250829%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=f0d093adaa8391daea55f4dcfabfbdab55c7ca2b1c3521e5ef91b926e7598136",
+      "fixedS3PresignedUrlExpDt": {
+        "$date": "2025-09-05T12:21:41.440Z"
+      },
+      "tempS3PresignedUrlExpDt": {
+        "$date": "2025-09-05T12:21:41.440Z"
+      },
+      "isAccepted": true
+    },
+    {
+      "documentCategory": "CERTIFICATION",
+      "documentType": "EXTERIOR",
+      "documentName": "EXTERIOR_FRONT",
+      "fileName": "78dcb29d-4113-49ca-ba87-f7ffd59fc452.JPEG",
+      "fileExtension": "JPEG",
+      "fileType": "Image",
+      "tempS3Key": "prod/561381/CERT-23082025-1326675MPN561381/78dcb29d-4113-49ca-ba87-f7ffd59fc452.JPEG",
+      "fixedS3Key": "prod/561381/CERT-23082025-1326675MPN561381/78dcb29d-4113-49ca-ba87-f7ffd59fc452.JPEG",
+      "tempS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/78dcb29d-4113-49ca-ba87-f7ffd59fc452.JPEG",
+      "fixedS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/78dcb29d-4113-49ca-ba87-f7ffd59fc452.JPEG",
+      "fixedS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/78dcb29d-4113-49ca-ba87-f7ffd59fc452.JPEG?response-content-disposition=inline%3B%20filename%3D%2278dcb29d-4113-49ca-ba87-f7ffd59fc452.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250829T125114Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250829%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=14d46aeaa1fc72e8f300979f5b2b747dd033cf87f45c95d6c11d30f0722460c9",
+      "tempS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/78dcb29d-4113-49ca-ba87-f7ffd59fc452.JPEG?response-content-disposition=inline%3B%20filename%3D%2278dcb29d-4113-49ca-ba87-f7ffd59fc452.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250829T125114Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250829%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=14d46aeaa1fc72e8f300979f5b2b747dd033cf87f45c95d6c11d30f0722460c9",
+      "fixedS3PresignedUrlExpDt": {
+        "$date": "2025-09-05T12:51:14.461Z"
+      },
+      "tempS3PresignedUrlExpDt": {
+        "$date": "2025-09-05T12:51:14.461Z"
+      },
+      "isAccepted": true
+    },
+    {
+      "documentCategory": "CERTIFICATION",
+      "documentType": "EXTERIOR",
+      "documentName": "EXTERIOR_RIGHT",
+      "fileName": "981b6c7a-480a-4a51-9a9e-be2c44757871.JPEG",
+      "fileExtension": "JPEG",
+      "fileType": "Image",
+      "tempS3Key": "prod/561381/CERT-23082025-1326675MPN561381/981b6c7a-480a-4a51-9a9e-be2c44757871.JPEG",
+      "fixedS3Key": "prod/561381/CERT-23082025-1326675MPN561381/981b6c7a-480a-4a51-9a9e-be2c44757871.JPEG",
+      "tempS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/981b6c7a-480a-4a51-9a9e-be2c44757871.JPEG",
+      "fixedS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/981b6c7a-480a-4a51-9a9e-be2c44757871.JPEG",
+      "fixedS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/981b6c7a-480a-4a51-9a9e-be2c44757871.JPEG?response-content-disposition=inline%3B%20filename%3D%22981b6c7a-480a-4a51-9a9e-be2c44757871.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250829T125312Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250829%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=f3968c4f092e3fe1b855ef7184101c9e96c17365236385442b2449379de1b15c",
+      "tempS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/981b6c7a-480a-4a51-9a9e-be2c44757871.JPEG?response-content-disposition=inline%3B%20filename%3D%22981b6c7a-480a-4a51-9a9e-be2c44757871.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250829T125312Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250829%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=f3968c4f092e3fe1b855ef7184101c9e96c17365236385442b2449379de1b15c",
+      "fixedS3PresignedUrlExpDt": {
+        "$date": "2025-09-05T12:53:12.714Z"
+      },
+      "tempS3PresignedUrlExpDt": {
+        "$date": "2025-09-05T12:53:12.714Z"
+      },
+      "isAccepted": true
+    },
+    {
+      "documentCategory": "CERTIFICATION",
+      "documentType": "EXTERIOR",
+      "documentName": "EXTERIOR_REAR",
+      "fileName": "b4770c9a-bee1-4185-9d48-90a631d0266c.JPEG",
+      "fileExtension": "JPEG",
+      "fileType": "Image",
+      "tempS3Key": "prod/561381/CERT-23082025-1326675MPN561381/b4770c9a-bee1-4185-9d48-90a631d0266c.JPEG",
+      "fixedS3Key": "prod/561381/CERT-23082025-1326675MPN561381/b4770c9a-bee1-4185-9d48-90a631d0266c.JPEG",
+      "tempS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/b4770c9a-bee1-4185-9d48-90a631d0266c.JPEG",
+      "fixedS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/b4770c9a-bee1-4185-9d48-90a631d0266c.JPEG",
+      "fixedS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/b4770c9a-bee1-4185-9d48-90a631d0266c.JPEG?response-content-disposition=inline%3B%20filename%3D%22b4770c9a-bee1-4185-9d48-90a631d0266c.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250829T125846Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250829%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=f5c871d8dd65e54214cc3930438989978addce7de1b0e8bbe5805214c2e0a692",
+      "tempS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/b4770c9a-bee1-4185-9d48-90a631d0266c.JPEG?response-content-disposition=inline%3B%20filename%3D%22b4770c9a-bee1-4185-9d48-90a631d0266c.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250829T125846Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250829%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=f5c871d8dd65e54214cc3930438989978addce7de1b0e8bbe5805214c2e0a692",
+      "fixedS3PresignedUrlExpDt": {
+        "$date": "2025-09-05T12:58:46.281Z"
+      },
+      "tempS3PresignedUrlExpDt": {
+        "$date": "2025-09-05T12:58:46.281Z"
+      },
+      "isAccepted": true
+    },
+    {
+      "documentCategory": "CERTIFICATION",
+      "documentType": "RATING",
+      "documentName": "TV_CHECKLIST",
+      "fileName": "a6aefbbe-7f03-40fb-9e6b-fe9d84832e66.JPEG",
+      "fileExtension": "JPEG",
+      "fileType": "Image",
+      "tempS3Key": "prod/561381/CERT-23082025-1326675MPN561381/a6aefbbe-7f03-40fb-9e6b-fe9d84832e66.JPEG",
+      "fixedS3Key": "prod/561381/CERT-23082025-1326675MPN561381/a6aefbbe-7f03-40fb-9e6b-fe9d84832e66.JPEG",
+      "tempS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/a6aefbbe-7f03-40fb-9e6b-fe9d84832e66.JPEG",
+      "fixedS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/a6aefbbe-7f03-40fb-9e6b-fe9d84832e66.JPEG",
+      "fixedS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/a6aefbbe-7f03-40fb-9e6b-fe9d84832e66.JPEG?response-content-disposition=inline%3B%20filename%3D%22a6aefbbe-7f03-40fb-9e6b-fe9d84832e66.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250830T043940Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250830%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=3aa9b8aede8e5b0e655c0792e4e119f94442be830a97ad29b3c66784966f702a",
+      "tempS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/a6aefbbe-7f03-40fb-9e6b-fe9d84832e66.JPEG?response-content-disposition=inline%3B%20filename%3D%22a6aefbbe-7f03-40fb-9e6b-fe9d84832e66.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250830T043940Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250830%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=3aa9b8aede8e5b0e655c0792e4e119f94442be830a97ad29b3c66784966f702a",
+      "fixedS3PresignedUrlExpDt": {
+        "$date": "2025-09-06T04:39:40.919Z"
+      },
+      "tempS3PresignedUrlExpDt": {
+        "$date": "2025-09-06T04:39:40.919Z"
+      }
+    }
+  ],
+  "exterior_images": [
+    {
+      "fileName": "1c3879a1-6127-44fe-8e7e-bc3f7cacde19.JPEG",
+      "fileExtension": "JPEG",
+      "fileType": "Image",
+      "documentName": "BONNET_FRONTWS",
+      "documentType": "EXTERIOR_CQ",
+      "tempS3Key": "prod/561381/CERT-23082025-1326675MPN561381/1c3879a1-6127-44fe-8e7e-bc3f7cacde19.JPEG",
+      "fixedS3Key": "prod/561381/CERT-23082025-1326675MPN561381/1c3879a1-6127-44fe-8e7e-bc3f7cacde19.JPEG",
+      "tempS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/1c3879a1-6127-44fe-8e7e-bc3f7cacde19.JPEG",
+      "fixedS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/1c3879a1-6127-44fe-8e7e-bc3f7cacde19.JPEG",
+      "fixedS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/1c3879a1-6127-44fe-8e7e-bc3f7cacde19.JPEG?response-content-disposition=inline%3B%20filename%3D%221c3879a1-6127-44fe-8e7e-bc3f7cacde19.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250830T125729Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250830%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=754ef36a2f34fd1b8e26bfd3f671bf7e04293a76f013ac7923f8b887efbdd665",
+      "tempS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/1c3879a1-6127-44fe-8e7e-bc3f7cacde19.JPEG?response-content-disposition=inline%3B%20filename%3D%221c3879a1-6127-44fe-8e7e-bc3f7cacde19.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250823T125415Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250823%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=e550b2764caa45df97e68d6024ffbc6dceead6d7fd92c9018dd4839164f7c7dd",
+      "fixedS3PresignedUrlExpDt": {
+        "$date": "2025-09-06T12:57:29.678Z"
+      },
+      "tempS3PresignedUrlExpDt": {
+        "$date": "2025-08-30T12:54:15.241Z"
+      },
+      "isDefect": false,
+      "damageImageURLs": [
+        "https://cqprod.blob.core.windows.net/data/annotated_data/1c3879a1-6127-44fe-8e7e-bc3f7cacde19_annotated_1755953735846.jpg"
+      ],
+      "isAccepted": true
+    },
+    {
+      "fileName": "97e35dd0-17b5-48c8-ba76-363186e4eade.JPEG",
+      "fileExtension": "JPEG",
+      "fileType": "Image",
+      "documentName": "FRONT_BUMPER",
+      "documentType": "EXTERIOR_CQ",
+      "tempS3Key": "prod/561381/CERT-23082025-1326675MPN561381/97e35dd0-17b5-48c8-ba76-363186e4eade.JPEG",
+      "fixedS3Key": "prod/561381/CERT-23082025-1326675MPN561381/97e35dd0-17b5-48c8-ba76-363186e4eade.JPEG",
+      "tempS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/97e35dd0-17b5-48c8-ba76-363186e4eade.JPEG",
+      "fixedS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/97e35dd0-17b5-48c8-ba76-363186e4eade.JPEG",
+      "fixedS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/97e35dd0-17b5-48c8-ba76-363186e4eade.JPEG?response-content-disposition=inline%3B%20filename%3D%2297e35dd0-17b5-48c8-ba76-363186e4eade.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250830T125729Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250830%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=4c99aff4e0f9523eabffcd7b329ccc399d839b5805cdfabb37246d3ff2f46e9e",
+      "tempS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/97e35dd0-17b5-48c8-ba76-363186e4eade.JPEG?response-content-disposition=inline%3B%20filename%3D%2297e35dd0-17b5-48c8-ba76-363186e4eade.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250823T125420Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250823%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=9bdcdda2991321ddf246bd28b99780348c9ba1606e2594dea7907303de8e7b9e",
+      "fixedS3PresignedUrlExpDt": {
+        "$date": "2025-09-06T12:57:29.693Z"
+      },
+      "tempS3PresignedUrlExpDt": {
+        "$date": "2025-08-30T12:54:20.464Z"
+      },
+      "isDefect": false,
+      "damageImageURLs": [
+        "https://cqprod.blob.core.windows.net/data/annotated_data/97e35dd0-17b5-48c8-ba76-363186e4eade_annotated_1755953735828.jpg"
+      ],
+      "isAccepted": true
+    },
+    {
+      "fileName": "ad703493-7c6a-43f0-8600-2c3b9313799d.JPEG",
+      "fileExtension": "JPEG",
+      "fileType": "Image",
+      "documentName": "LEFT_FRONT_EDGE",
+      "documentType": "EXTERIOR_CQ",
+      "tempS3Key": "prod/561381/CERT-23082025-1326675MPN561381/ad703493-7c6a-43f0-8600-2c3b9313799d.JPEG",
+      "fixedS3Key": "prod/561381/CERT-23082025-1326675MPN561381/ad703493-7c6a-43f0-8600-2c3b9313799d.JPEG",
+      "tempS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/ad703493-7c6a-43f0-8600-2c3b9313799d.JPEG",
+      "fixedS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/ad703493-7c6a-43f0-8600-2c3b9313799d.JPEG",
+      "fixedS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/ad703493-7c6a-43f0-8600-2c3b9313799d.JPEG?response-content-disposition=inline%3B%20filename%3D%22ad703493-7c6a-43f0-8600-2c3b9313799d.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250830T125729Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250830%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=5107e9ab1c17f8c5b5f7971b53954f59618bb06a95714af04bb862c5c46e4fd9",
+      "tempS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/ad703493-7c6a-43f0-8600-2c3b9313799d.JPEG?response-content-disposition=inline%3B%20filename%3D%22ad703493-7c6a-43f0-8600-2c3b9313799d.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250823T125428Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250823%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=6b75b6cf23f986925b708449b2bad38caf980185b5eb4be4f34f89f96ed424ca",
+      "fixedS3PresignedUrlExpDt": {
+        "$date": "2025-09-06T12:57:29.706Z"
+      },
+      "tempS3PresignedUrlExpDt": {
+        "$date": "2025-08-30T12:54:28.242Z"
+      },
+      "isDefect": false,
+      "damageImageURLs": [
+        "https://cqprod.blob.core.windows.net/data/annotated_data/ad703493-7c6a-43f0-8600-2c3b9313799d_annotated_1755953736012.jpg"
+      ],
+      "isAccepted": true
+    },
+    {
+      "fileName": "ef1b70ba-b7bf-4f88-9bca-fbdacc897c9e.JPEG",
+      "fileExtension": "JPEG",
+      "fileType": "Image",
+      "documentName": "ROOF_FRONT",
+      "documentType": "EXTERIOR_CQ",
+      "tempS3Key": "prod/561381/CERT-23082025-1326675MPN561381/ef1b70ba-b7bf-4f88-9bca-fbdacc897c9e.JPEG",
+      "fixedS3Key": "prod/561381/CERT-23082025-1326675MPN561381/ef1b70ba-b7bf-4f88-9bca-fbdacc897c9e.JPEG",
+      "tempS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/ef1b70ba-b7bf-4f88-9bca-fbdacc897c9e.JPEG",
+      "fixedS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/ef1b70ba-b7bf-4f88-9bca-fbdacc897c9e.JPEG",
+      "fixedS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/ef1b70ba-b7bf-4f88-9bca-fbdacc897c9e.JPEG?response-content-disposition=inline%3B%20filename%3D%22ef1b70ba-b7bf-4f88-9bca-fbdacc897c9e.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250830T125729Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250830%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=1310e62fc901fc3bfafbc5af307a15a8d245e9267fa82a98b19e95a1663535c5",
+      "tempS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/ef1b70ba-b7bf-4f88-9bca-fbdacc897c9e.JPEG?response-content-disposition=inline%3B%20filename%3D%22ef1b70ba-b7bf-4f88-9bca-fbdacc897c9e.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250823T125425Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250823%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=4596b780a084b9da19597346645c0d6f30bda7aec7a47852b0b853f374d06762",
+      "fixedS3PresignedUrlExpDt": {
+        "$date": "2025-09-06T12:57:29.721Z"
+      },
+      "tempS3PresignedUrlExpDt": {
+        "$date": "2025-08-30T12:54:25.268Z"
+      },
+      "isDefect": false,
+      "damageImageURLs": [
+        "https://cqprod.blob.core.windows.net/data/annotated_data/ef1b70ba-b7bf-4f88-9bca-fbdacc897c9e_annotated_1755953735918.jpg"
+      ],
+      "isAccepted": true
+    },
+    {
+      "fileName": "8bd01181-cd95-4655-bcdb-b50ca0d485bf.JPEG",
+      "fileExtension": "JPEG",
+      "fileType": "Image",
+      "documentName": "LEFT_FRONT",
+      "documentType": "EXTERIOR_CQ",
+      "tempS3Key": "prod/561381/CERT-23082025-1326675MPN561381/8bd01181-cd95-4655-bcdb-b50ca0d485bf.JPEG",
+      "fixedS3Key": "prod/561381/CERT-23082025-1326675MPN561381/8bd01181-cd95-4655-bcdb-b50ca0d485bf.JPEG",
+      "tempS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/8bd01181-cd95-4655-bcdb-b50ca0d485bf.JPEG",
+      "fixedS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/8bd01181-cd95-4655-bcdb-b50ca0d485bf.JPEG",
+      "fixedS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/8bd01181-cd95-4655-bcdb-b50ca0d485bf.JPEG?response-content-disposition=inline%3B%20filename%3D%228bd01181-cd95-4655-bcdb-b50ca0d485bf.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250830T125729Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250830%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=cc953150baf9e81cd36aa20ec4da1c6c960f4f7503c1e08502ca5ed8be527764",
+      "tempS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/8bd01181-cd95-4655-bcdb-b50ca0d485bf.JPEG?response-content-disposition=inline%3B%20filename%3D%228bd01181-cd95-4655-bcdb-b50ca0d485bf.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250823T125440Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250823%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=f2c233808d55eeade2aa94a3f542ecbfc8da2570d32188f7b261afb4f905ac32",
+      "fixedS3PresignedUrlExpDt": {
+        "$date": "2025-09-06T12:57:29.735Z"
+      },
+      "tempS3PresignedUrlExpDt": {
+        "$date": "2025-08-30T12:54:40.730Z"
+      },
+      "isDefect": false,
+      "damageImageURLs": [
+        "https://cqprod.blob.core.windows.net/data/annotated_data/8bd01181-cd95-4655-bcdb-b50ca0d485bf_annotated_1755953735972.jpg"
+      ],
+      "isAccepted": true
+    },
+    {
+      "fileName": "2df4b6a2-1854-4f6d-aae2-0ade19e5e79b.JPEG",
+      "fileExtension": "JPEG",
+      "fileType": "Image",
+      "documentName": "LEFT_REAR",
+      "documentType": "EXTERIOR_CQ",
+      "tempS3Key": "prod/561381/CERT-23082025-1326675MPN561381/2df4b6a2-1854-4f6d-aae2-0ade19e5e79b.JPEG",
+      "fixedS3Key": "prod/561381/CERT-23082025-1326675MPN561381/2df4b6a2-1854-4f6d-aae2-0ade19e5e79b.JPEG",
+      "tempS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/2df4b6a2-1854-4f6d-aae2-0ade19e5e79b.JPEG",
+      "fixedS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/2df4b6a2-1854-4f6d-aae2-0ade19e5e79b.JPEG",
+      "fixedS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/2df4b6a2-1854-4f6d-aae2-0ade19e5e79b.JPEG?response-content-disposition=inline%3B%20filename%3D%222df4b6a2-1854-4f6d-aae2-0ade19e5e79b.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250830T125729Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250830%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=f8c98d6925a8849f39d4e8dc61d6c1b4f78b97c6766297d00fa1c822136e02c1",
+      "tempS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/2df4b6a2-1854-4f6d-aae2-0ade19e5e79b.JPEG?response-content-disposition=inline%3B%20filename%3D%222df4b6a2-1854-4f6d-aae2-0ade19e5e79b.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250823T125433Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250823%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=bbcd8568432ee4a97ebab5836b0d46716121b14a07ddcb715330256992b83732",
+      "fixedS3PresignedUrlExpDt": {
+        "$date": "2025-09-06T12:57:29.748Z"
+      },
+      "tempS3PresignedUrlExpDt": {
+        "$date": "2025-08-30T12:54:33.459Z"
+      },
+      "isDefect": false,
+      "damageImageURLs": [
+        "https://cqprod.blob.core.windows.net/data/annotated_data/2df4b6a2-1854-4f6d-aae2-0ade19e5e79b_annotated_1755953735985.jpg"
+      ],
+      "isAccepted": true
+    },
+    {
+      "fileName": "41f20a69-fd36-42e4-a042-41558053f50c.JPEG",
+      "fileExtension": "JPEG",
+      "fileType": "Image",
+      "documentName": "LEFT_REAR_EDGE",
+      "documentType": "EXTERIOR_CQ",
+      "tempS3Key": "prod/561381/CERT-23082025-1326675MPN561381/41f20a69-fd36-42e4-a042-41558053f50c.JPEG",
+      "fixedS3Key": "prod/561381/CERT-23082025-1326675MPN561381/41f20a69-fd36-42e4-a042-41558053f50c.JPEG",
+      "tempS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/41f20a69-fd36-42e4-a042-41558053f50c.JPEG",
+      "fixedS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/41f20a69-fd36-42e4-a042-41558053f50c.JPEG",
+      "fixedS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/41f20a69-fd36-42e4-a042-41558053f50c.JPEG?response-content-disposition=inline%3B%20filename%3D%2241f20a69-fd36-42e4-a042-41558053f50c.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250830T125729Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250830%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=974531599482fffd81f776762bb4ef0b74f45b27992deb847ea9cc6142a47ee2",
+      "tempS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/41f20a69-fd36-42e4-a042-41558053f50c.JPEG?response-content-disposition=inline%3B%20filename%3D%2241f20a69-fd36-42e4-a042-41558053f50c.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250823T125444Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250823%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=faee71dfb1e370642df776dd4b8e227033e33fe9658ce1d96c9e01cf6d4ce5bb",
+      "fixedS3PresignedUrlExpDt": {
+        "$date": "2025-09-06T12:57:29.762Z"
+      },
+      "tempS3PresignedUrlExpDt": {
+        "$date": "2025-08-30T12:54:44.496Z"
+      },
+      "isDefect": false,
+      "damageImageURLs": [
+        "https://cqprod.blob.core.windows.net/data/annotated_data/41f20a69-fd36-42e4-a042-41558053f50c_annotated_1755953735939.jpg"
+      ],
+      "isAccepted": true
+    },
+    {
+      "fileName": "fda3c843-f49d-41a8-b26b-54448445a415.JPEG",
+      "fileExtension": "JPEG",
+      "fileType": "Image",
+      "documentName": "REAR_BUMPER",
+      "documentType": "EXTERIOR_CQ",
+      "tempS3Key": "prod/561381/CERT-23082025-1326675MPN561381/fda3c843-f49d-41a8-b26b-54448445a415.JPEG",
+      "fixedS3Key": "prod/561381/CERT-23082025-1326675MPN561381/fda3c843-f49d-41a8-b26b-54448445a415.JPEG",
+      "tempS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/fda3c843-f49d-41a8-b26b-54448445a415.JPEG",
+      "fixedS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/fda3c843-f49d-41a8-b26b-54448445a415.JPEG",
+      "fixedS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/fda3c843-f49d-41a8-b26b-54448445a415.JPEG?response-content-disposition=inline%3B%20filename%3D%22fda3c843-f49d-41a8-b26b-54448445a415.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250830T125729Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250830%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=ebb98694b8b01cdb6b20b5f8817ff8533e711b111e1412b30539e43f32a2bee7",
+      "tempS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/fda3c843-f49d-41a8-b26b-54448445a415.JPEG?response-content-disposition=inline%3B%20filename%3D%22fda3c843-f49d-41a8-b26b-54448445a415.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250823T125447Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250823%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=04fe14aa0b6f6ca3b1386b1d40461e8d7237728d2e6e3138416d2611a57b84c8",
+      "fixedS3PresignedUrlExpDt": {
+        "$date": "2025-09-06T12:57:29.775Z"
+      },
+      "tempS3PresignedUrlExpDt": {
+        "$date": "2025-08-30T12:54:47.674Z"
+      },
+      "isDefect": false,
+      "damageImageURLs": [
+        "https://cqprod.blob.core.windows.net/data/annotated_data/fda3c843-f49d-41a8-b26b-54448445a415_annotated_1755953736121.jpg"
+      ],
+      "isAccepted": true
+    },
+    {
+      "fileName": "56d7e671-2243-4a1b-8b18-47db906021ac.JPEG",
+      "fileExtension": "JPEG",
+      "fileType": "Image",
+      "documentName": "TAILGATE_REARWS",
+      "documentType": "EXTERIOR_CQ",
+      "tempS3Key": "prod/561381/CERT-23082025-1326675MPN561381/56d7e671-2243-4a1b-8b18-47db906021ac.JPEG",
+      "fixedS3Key": "prod/561381/CERT-23082025-1326675MPN561381/56d7e671-2243-4a1b-8b18-47db906021ac.JPEG",
+      "tempS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/56d7e671-2243-4a1b-8b18-47db906021ac.JPEG",
+      "fixedS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/56d7e671-2243-4a1b-8b18-47db906021ac.JPEG",
+      "fixedS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/56d7e671-2243-4a1b-8b18-47db906021ac.JPEG?response-content-disposition=inline%3B%20filename%3D%2256d7e671-2243-4a1b-8b18-47db906021ac.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250830T125729Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250830%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=c811eb5978012074d326caf3f4a82e2d4aadf04575ef2622b2d066efc591aeaf",
+      "tempS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/56d7e671-2243-4a1b-8b18-47db906021ac.JPEG?response-content-disposition=inline%3B%20filename%3D%2256d7e671-2243-4a1b-8b18-47db906021ac.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250823T125459Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250823%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=9b840cbf7f032fdb77edf3eecf8fc6353a6f13a584b43b10163038e040c5b393",
+      "fixedS3PresignedUrlExpDt": {
+        "$date": "2025-09-06T12:57:29.788Z"
+      },
+      "tempS3PresignedUrlExpDt": {
+        "$date": "2025-08-30T12:54:59.249Z"
+      },
+      "isDefect": false,
+      "damageImageURLs": [
+        "https://cqprod.blob.core.windows.net/data/annotated_data/56d7e671-2243-4a1b-8b18-47db906021ac_annotated_1755953736001.jpg"
+      ],
+      "isAccepted": true
+    },
+    {
+      "fileName": "164fdccd-35e7-4c16-84c9-b634abb9b2e6.JPEG",
+      "fileExtension": "JPEG",
+      "fileType": "Image",
+      "documentName": "RIGHT_REAR_EDGE",
+      "documentType": "EXTERIOR_CQ",
+      "tempS3Key": "prod/561381/CERT-23082025-1326675MPN561381/164fdccd-35e7-4c16-84c9-b634abb9b2e6.JPEG",
+      "fixedS3Key": "prod/561381/CERT-23082025-1326675MPN561381/164fdccd-35e7-4c16-84c9-b634abb9b2e6.JPEG",
+      "tempS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/164fdccd-35e7-4c16-84c9-b634abb9b2e6.JPEG",
+      "fixedS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/164fdccd-35e7-4c16-84c9-b634abb9b2e6.JPEG",
+      "fixedS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/164fdccd-35e7-4c16-84c9-b634abb9b2e6.JPEG?response-content-disposition=inline%3B%20filename%3D%22164fdccd-35e7-4c16-84c9-b634abb9b2e6.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250830T125729Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250830%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=dfac5c11fa1763aca9b27e43f736b73003f6bde3c339aa1be21f6955978eaede",
+      "tempS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/164fdccd-35e7-4c16-84c9-b634abb9b2e6.JPEG?response-content-disposition=inline%3B%20filename%3D%22164fdccd-35e7-4c16-84c9-b634abb9b2e6.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250823T125451Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250823%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=db6a3f55a799102415ef47f4e3cfe17f71ffaf276fff180d24d8fc78e60f2e8d",
+      "fixedS3PresignedUrlExpDt": {
+        "$date": "2025-09-06T12:57:29.802Z"
+      },
+      "tempS3PresignedUrlExpDt": {
+        "$date": "2025-08-30T12:54:51.746Z"
+      },
+      "isDefect": false,
+      "damageImageURLs": [
+        "https://cqprod.blob.core.windows.net/data/annotated_data/164fdccd-35e7-4c16-84c9-b634abb9b2e6_annotated_1755953735875.jpg"
+      ],
+      "isAccepted": true
+    },
+    {
+      "fileName": "de1f319c-9a1e-4def-af75-950278122368.JPEG",
+      "fileExtension": "JPEG",
+      "fileType": "Image",
+      "documentName": "ROOF_REAR",
+      "documentType": "EXTERIOR_CQ",
+      "tempS3Key": "prod/561381/CERT-23082025-1326675MPN561381/de1f319c-9a1e-4def-af75-950278122368.JPEG",
+      "fixedS3Key": "prod/561381/CERT-23082025-1326675MPN561381/de1f319c-9a1e-4def-af75-950278122368.JPEG",
+      "tempS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/de1f319c-9a1e-4def-af75-950278122368.JPEG",
+      "fixedS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/de1f319c-9a1e-4def-af75-950278122368.JPEG",
+      "fixedS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/de1f319c-9a1e-4def-af75-950278122368.JPEG?response-content-disposition=inline%3B%20filename%3D%22de1f319c-9a1e-4def-af75-950278122368.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250830T125729Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250830%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=99bd57e465e88b31ec14fa2ec7be8b1f86b8e1bb54bf10d2ca7208e414477e9d",
+      "tempS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/de1f319c-9a1e-4def-af75-950278122368.JPEG?response-content-disposition=inline%3B%20filename%3D%22de1f319c-9a1e-4def-af75-950278122368.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250823T125456Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250823%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=b2bbb23f6edb2fa95d70e8ecd9333f84c3cc5e3aea1d29b73627a558fe7863a1",
+      "fixedS3PresignedUrlExpDt": {
+        "$date": "2025-09-06T12:57:29.816Z"
+      },
+      "tempS3PresignedUrlExpDt": {
+        "$date": "2025-08-30T12:54:56.142Z"
+      },
+      "isDefect": false,
+      "damageImageURLs": [
+        "https://cqprod.blob.core.windows.net/data/annotated_data/de1f319c-9a1e-4def-af75-950278122368_annotated_1755953735914.jpg"
+      ],
+      "isAccepted": true
+    },
+    {
+      "fileName": "d079e8f9-7bf5-4355-9022-6530ca83f932.JPEG",
+      "fileExtension": "JPEG",
+      "fileType": "Image",
+      "documentName": "RIGHT_REAR",
+      "documentType": "EXTERIOR_CQ",
+      "tempS3Key": "prod/561381/CERT-23082025-1326675MPN561381/d079e8f9-7bf5-4355-9022-6530ca83f932.JPEG",
+      "fixedS3Key": "prod/561381/CERT-23082025-1326675MPN561381/d079e8f9-7bf5-4355-9022-6530ca83f932.JPEG",
+      "tempS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/d079e8f9-7bf5-4355-9022-6530ca83f932.JPEG",
+      "fixedS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/d079e8f9-7bf5-4355-9022-6530ca83f932.JPEG",
+      "fixedS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/d079e8f9-7bf5-4355-9022-6530ca83f932.JPEG?response-content-disposition=inline%3B%20filename%3D%22d079e8f9-7bf5-4355-9022-6530ca83f932.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250830T125729Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250830%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=8699b0f6350a9c7a02acc04747ae6774fb1a849b8e99c535f99c6558e2df6b4c",
+      "tempS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/d079e8f9-7bf5-4355-9022-6530ca83f932.JPEG?response-content-disposition=inline%3B%20filename%3D%22d079e8f9-7bf5-4355-9022-6530ca83f932.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250823T125503Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250823%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=e737a72a5b931003fe11d0198a2fba34083aace5ad6aea5b1ccfdda145f21fff",
+      "fixedS3PresignedUrlExpDt": {
+        "$date": "2025-09-06T12:57:29.832Z"
+      },
+      "tempS3PresignedUrlExpDt": {
+        "$date": "2025-08-30T12:55:03.506Z"
+      },
+      "isDefect": false,
+      "damageImageURLs": [
+        "https://cqprod.blob.core.windows.net/data/annotated_data/d079e8f9-7bf5-4355-9022-6530ca83f932_annotated_1755953735943.jpg"
+      ],
+      "isAccepted": true
+    },
+    {
+      "fileName": "924aec83-b946-4791-94c4-99231d21e378.JPEG",
+      "fileExtension": "JPEG",
+      "fileType": "Image",
+      "documentName": "RIGHT_FRONT",
+      "documentType": "EXTERIOR_CQ",
+      "tempS3Key": "prod/561381/CERT-23082025-1326675MPN561381/924aec83-b946-4791-94c4-99231d21e378.JPEG",
+      "fixedS3Key": "prod/561381/CERT-23082025-1326675MPN561381/924aec83-b946-4791-94c4-99231d21e378.JPEG",
+      "tempS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/924aec83-b946-4791-94c4-99231d21e378.JPEG",
+      "fixedS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/924aec83-b946-4791-94c4-99231d21e378.JPEG",
+      "fixedS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/924aec83-b946-4791-94c4-99231d21e378.JPEG?response-content-disposition=inline%3B%20filename%3D%22924aec83-b946-4791-94c4-99231d21e378.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250830T125729Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250830%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=00bf1dcae93f102026969556d2ebb4a145cf436741e4068790c7256057356b2b",
+      "tempS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/924aec83-b946-4791-94c4-99231d21e378.JPEG?response-content-disposition=inline%3B%20filename%3D%22924aec83-b946-4791-94c4-99231d21e378.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250823T125507Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250823%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=e2d9bc3cfce2791c42fae69a7de4b4483cd57015f103785c03f0f28a135d6006",
+      "fixedS3PresignedUrlExpDt": {
+        "$date": "2025-09-06T12:57:29.847Z"
+      },
+      "tempS3PresignedUrlExpDt": {
+        "$date": "2025-08-30T12:55:07.094Z"
+      },
+      "isDefect": false,
+      "damageImageURLs": [
+        "https://cqprod.blob.core.windows.net/data/annotated_data/924aec83-b946-4791-94c4-99231d21e378_annotated_1755953735922.jpg"
+      ],
+      "isAccepted": true
+    },
+    {
+      "fileName": "83a6c76b-2e77-466b-b235-8076eb8e8bac.JPEG",
+      "fileExtension": "JPEG",
+      "fileType": "Image",
+      "documentName": "RIGHT_FRONT_EDGE",
+      "documentType": "EXTERIOR_CQ",
+      "tempS3Key": "prod/561381/CERT-23082025-1326675MPN561381/83a6c76b-2e77-466b-b235-8076eb8e8bac.JPEG",
+      "fixedS3Key": "prod/561381/CERT-23082025-1326675MPN561381/83a6c76b-2e77-466b-b235-8076eb8e8bac.JPEG",
+      "tempS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/83a6c76b-2e77-466b-b235-8076eb8e8bac.JPEG",
+      "fixedS3Url": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/83a6c76b-2e77-466b-b235-8076eb8e8bac.JPEG",
+      "fixedS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/83a6c76b-2e77-466b-b235-8076eb8e8bac.JPEG?response-content-disposition=inline%3B%20filename%3D%2283a6c76b-2e77-466b-b235-8076eb8e8bac.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250830T125729Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250830%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=b8b69b4c5ae74a0bd3ebc07010de9fd33516652261c88b4ead3c35ad51b04996",
+      "tempS3PresignedUrl": "https://tvev-evaluation-prod.s3.ap-south-1.amazonaws.com/prod/561381/CERT-23082025-1326675MPN561381/83a6c76b-2e77-466b-b235-8076eb8e8bac.JPEG?response-content-disposition=inline%3B%20filename%3D%2283a6c76b-2e77-466b-b235-8076eb8e8bac.JPEG%22&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250823T125510Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA2VJYQLKKL5MBIHO7%2F20250823%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=3a37536fec0bf32f7918058cf360b46a71a0c57ad823f744e7623124a4af1287",
+      "fixedS3PresignedUrlExpDt": {
+        "$date": "2025-09-06T12:57:29.860Z"
+      },
+      "tempS3PresignedUrlExpDt": {
+        "$date": "2025-08-30T12:55:10.599Z"
+      },
+      "isDefect": false,
+      "damageImageURLs": [
+        "https://cqprod.blob.core.windows.net/data/annotated_data/83a6c76b-2e77-466b-b235-8076eb8e8bac_annotated_1755953735925.jpg"
+      ],
+      "isAccepted": true
+    }
+  ],
+  "exteriorImageVersion": "EXT-IMG-VER-23082025125533-892614",
+  "exteriorImageSaveDateTime": {
+    "$date": "2025-08-23T12:55:33.540Z"
+  },
+  "vehical": {
+    "manufacturer": "MSIL",
+    "model_code": "VR",
+    "variant_code": "VRRCAAF",
+    "vin_number": "MA3ERLF1S00A75039",
+    "chasis_number": "A75039",
+    "chasis_number_embossing": "Not Traceable",
+    "engine_number": "1140436",
+    "engine_cc": "1197",
+    "year_of_manufacturing": "2022",
+    "manufacturer_name": "MSIL",
+    "manufacturer_code": "M",
+    "car_type": "VAN",
+    "model": "EECO",
+    "variant": "MARUTI  EECO 5 STR AC (O) CNG 1.2L 5MT",
+    "colour": "SUPERIOR WHITE",
+    "colorCode": "26U",
+    "paint": "Metallic",
+    "transmission": "Manual",
+    "emission": "Euro 4",
+    "date_of_registration": {
+      "$date": "2022-08-18T00:00:00.000Z"
+    },
+    "kilometer_run": "23546",
+    "kilometer_run_while_evaluation": "23546",
+    "fule_type": "Petrol",
+    "cng_lpg_fitment_in_rc": "No",
+    "cng_kit_removed": false,
+    "cng_endowsed_rc": false,
+    "cng_type": "",
+    "number_of_owners": "1",
+    "duplicate_keys": true,
+    "vin_plate_available": false,
+    "jack_tool_kit_available": true,
+    "spare_wheel_available": true,
+    "insurance_type": "Insurance Expired",
+    "EY_TV_Warranty": "25/07/2027 | N/A",
+    "last_transaction_buyingId": "B25017026152",
+    "last_transaction_dealer_name": "",
+    "last_transaction_date": {
+      "$date": "2025-06-09T00:00:00.000Z"
+    },
+    "name_on_rc": "CHUDASMA PRUTHVIRAJSINH",
+    "phone_number": "9876787896",
+    "address": "",
+    "email_id": "",
+    "profession": "Other",
+    "rc_availability": "Original",
+    "rc_condition": "Ok",
+    "mismatch_in_rc": "No Mismatch",
+    "rto": "BAVLA",
+    "registration_state": "GUJARAT",
+    "registration_city": "AHMEDABAD",
+    "rto_noc_issued": "Yes",
+    "registration_valid": false,
+    "registration_valid_upto": "",
+    "road_tax_paid": "Limited Period",
+    "commercial_vehicle": false,
+    "fitness_upto_commercial_vehicle": "",
+    "under_hypothecation": false,
+    "financial_name": "",
+    "financial_name_other": "",
+    "time_spent": {
+      "$numberLong": "282"
+    },
+    "fuelTypeCode": "PET"
+  },
+  "exterior": {
+    "front_right": "Good (6-8 mm)",
+    "front_left": "Excellent (>8 mm)",
+    "rear_right": "Excellent (>8 mm)",
+    "rear_left": "Excellent (>8 mm)",
+    "spare": "Excellent (>8 mm)",
+    "repaint_done": false,
+    "repaint_done_data": [],
+    "rePaintListMode": true,
+    "actualRefurbishmentCost": "0",
+    "tyre_replacement_RF_cost_evaluator": "0",
+    "wheel_type": "Normal Rim",
+    "time_spent": {
+      "$numberLong": "492"
+    }
+  },
+  "interior": {
+    "allOk": false,
+    "seatCovers_available": true,
+    "sunRoof_available": false,
+    "car_antena_available": true,
+    "no_of_power_windows": 0,
+    "no_of_air_bags": 2,
+    "power_windows_reason": [],
+    "air_bags_working_condition": true,
+    "parking_brake_lever_working_condition": true,
+    "horn_working_condition": true,
+    "instrument_cluster_working_condition": true,
+    "instrument_cluster_reason": [],
+    "wiper_working_condition": true,
+    "wiper_reason": [],
+    "head_lamp_working_condition": true,
+    "head_lamp_reason": [],
+    "tail_lamp_working_condition": true,
+    "tail_lamp_reason": [],
+    "fogLampWorkingCondition": true,
+    "cabin_light_working_condition": true,
+    "blinker_light_working_condition": true,
+    "seat_belts_working_condition": true,
+    "seat_belts_reason": [],
+    "ac_effectiveness": "Effective",
+    "ac_grill_efficiency": "Excellent (<=7 °C)",
+    "climate_control_ac": "Yes",
+    "heater": "Yes",
+    "wheel_speed_sensor": "Yes",
+    "steering_mounted_controls": "N/A",
+    "abs": "N/A",
+    "reverse_parking_sensor": "N/A",
+    "reverse_camera": "N/A",
+    "keyless_center_locking": "N/A",
+    "keyless_center_locking_reason": "",
+    "music_system": "Yes",
+    "refurbishmentCostEvaluator": "0",
+    "actualRefurbishmentCost": "0",
+    "time_spent": {
+      "$numberLong": "80"
+    }
+  },
+  "engine": {
+    "allOk": false,
+    "engine": true,
+    "refurbishmentCostEvaluator": "0",
+    "actualRefurbishmentCost": "0",
+    "radiator": true,
+    "radiator_reason": "",
+    "catalytic_converter": true,
+    "starter_motor": true,
+    "starter_motor_reason": "",
+    "engine_oil_level_dipstik": true,
+    "engine_oil_leakage": false,
+    "engine_oil_leakageReason": [],
+    "coolant_availability": true,
+    "coolant_leakage": false,
+    "coolant_leakage_reason": [],
+    "engine_mounting": true,
+    "abnormal_noise": false,
+    "abnormal_noise_reason": [],
+    "black_smoke_white_smoke": false,
+    "black_smoke_white_smoke_reason": [],
+    "defective_belts": false,
+    "defective_belts_reason": [],
+    "battery": true,
+    "date_of_manufacturing": "2025-08",
+    "refurbishment_cost_total_evaluator": "0",
+    "actual_refurbishment_cost_total": "0",
+    "time_spent": {
+      "$numberLong": "30"
+    }
+  },
+  "functions": {
+    "working_condition_all_ok": false,
+    "steering": true,
+    "steering_reason": [],
+    "suspension": true,
+    "suspension_reasons": [],
+    "brake": true,
+    "brake_reasons": [],
+    "gear_shifting": true,
+    "gear_shifting_reasons": [],
+    "drive_shaft": true,
+    "drive_shaft_reasons": [],
+    "clutch": true,
+    "clutch_reason": "",
+    "gear_box_noise": false,
+    "wheel_bearing": false,
+    "wheel_bearing_reason": [],
+    "diffrential_noise": false,
+    "transmission_oil_leakage": false,
+    "refurbishment_cost_evaluator": "0",
+    "actual_refurbishment_cost": "0",
+    "time_spent": {
+      "$numberLong": "5"
+    }
+  },
+  "frames": {
+    "working_condition_all_ok": false,
+    "bonnet_support_member_selected": false,
+    "bonnet_support_member": "",
+    "cross_member_selected": false,
+    "cross_member": "",
+    "lamp_support_selected": false,
+    "lamp_support": "",
+    "left_apron_selected": false,
+    "left_apron": "",
+    "right_apron_selected": false,
+    "right_apron": "",
+    "left_a_pillar_selected": false,
+    "left_a_pillar": "",
+    "left_b_pillar_selected": false,
+    "left_b_pillar": "",
+    "left_c_pillar_selected": false,
+    "left_c_pillar": "",
+    "right_a_pillar_selected": false,
+    "right_a_pillar": "",
+    "right_b_pillar_selected": false,
+    "right_b_pillar": "",
+    "right_c_pillar_selected": false,
+    "right_c_pillar": "",
+    "rear_left_quarter_panel_selected": false,
+    "rear_left_quarter_panel": "",
+    "rear_right_quarer_panel_selected": false,
+    "rear_right_quarer_panel": "",
+    "rear_dickey_selected": false,
+    "rear_dickey": "",
+    "flood_affected_vehicle_selected": false,
+    "flood_affected_vehicle": "",
+    "comment": "",
+    "refurbishment_cost_evaluator": "0",
+    "actual_refurbishment_cost": "0",
+    "time_spent": {
+      "$numberLong": "12"
+    }
+  },
+  "refurbishment": {
+    "otherRefurbishmentCostDataEvaluator": {
+      "popularWorkDemand": {
+        "isEnabled": false
+      },
+      "interiorCleaning": {
+        "isEnabled": false
+      },
+      "rubbingAndPolishing": {
+        "isEnabled": false
+      },
+      "spareKeys": {
+        "isEnabled": false
+      },
+      "accessoriesRepair": {
+        "isEnabled": false
+      }
+    },
+    "documentCostDataEvaluator": {
+      "insuranceCost": {
+        "isEnabled": false
+      },
+      "pollutionCost": {
+        "isEnabled": false
+      },
+      "registrationDocCost": {
+        "isEnabled": false
+      }
+    },
+    "accessoriesValuesEvaluator": [
+      {
+        "accessoryName": ""
+      }
+    ],
+    "fitmentDataEvaluator": {
+      "engineNotStarting": {
+        "isEnabled": false
+      },
+      "specialCheckup": {
+        "isEnabled": false
+      },
+      "clutchHard": {
+        "isEnabled": false
+      },
+      "noiseFromSuspension": {
+        "isEnabled": false
+      },
+      "alignmentOut": {
+        "isEnabled": false
+      },
+      "brakeNotEffective": {
+        "isEnabled": false
+      },
+      "noiseFromBrakes": {
+        "isEnabled": false
+      }
+    },
+    "otherRefurbishmentCostDataCertifier": {
+      "popularWorkDemand": {
+        "isEnabled": false
+      },
+      "interiorCleaning": {
+        "isEnabled": false
+      },
+      "rubbingAndPolishing": {
+        "isEnabled": false
+      },
+      "spareKeys": {
+        "isEnabled": false
+      },
+      "accessoriesRepair": {
+        "isEnabled": false
+      }
+    },
+    "documentCostDataCertifier": {
+      "insuranceCost": {
+        "isEnabled": false
+      },
+      "pollutionCost": {
+        "isEnabled": false
+      },
+      "registrationDocCost": {
+        "isEnabled": false
+      }
+    },
+    "accessoriesValuesCertifier": [
+      {
+        "accessoryName": "",
+        "value": ""
+      }
+    ],
+    "fitmentDataCertifier": {
+      "engineNotStarting": {
+        "isEnabled": false
+      },
+      "specialCheckup": {
+        "isEnabled": false
+      },
+      "clutchHard": {
+        "isEnabled": false
+      },
+      "noiseFromSuspension": {
+        "isEnabled": false
+      },
+      "alignmentOut": {
+        "isEnabled": false
+      },
+      "brakeNotEffective": {
+        "isEnabled": false
+      },
+      "noiseFromBrakes": {
+        "isEnabled": false
+      }
+    },
+    "total_exterior_rf_cost_evaluator": 0,
+    "total_electrical_and_interior_rf_cost_evaluator": 0,
+    "total_functions_rf_cost_evaluator": 0,
+    "total_frames_rf_cost_evaluator": 0,
+    "total_engine_rf_cost_evaluator": 0,
+    "total_document_cost_evaluator": 0,
+    "total_other_rf_cost_evaluator": 0,
+    "total_tyre_rf_cost_evaluator": 0,
+    "total_rf_cost_evaluator": 0,
+    "time_spent": {
+      "$numberLong": "2"
+    },
+    "exterior_actualRfCost": "0",
+    "exterior_evaluatedRfCost": "0.00",
+    "electricalInterior_actualRfCost": "0",
+    "electricalInterior_evaluatedRfCost": "0",
+    "engine_actualRfCost": "0.00",
+    "engine_evaluatedRfCost": "0.00",
+    "function_actualRfCost": "0",
+    "function_evaluatedRfCost": "0",
+    "frames_actualRfCost": "0",
+    "frames_evaluatedRfCost": "0",
+    "other_actualRfCost": "0.0",
+    "other_evaluatedRfCost": "0.0",
+    "document_actualRfCost": "0.0",
+    "document_evaluatedRfCost": "0.0"
+  },
+  "rating": {
+    "vehicle_rating": {
+      "exterior": 5,
+      "interior": 5,
+      "functions": 5,
+      "frames": 5,
+      "engine": 5,
+      "finalVehicleRating": 5
+    },
+    "certifier_rating": "4",
+    "evaluated_rf_cost": "0",
+    "actual_rf_cost": "10150",
+    "vehicle_on_road_price": "600000",
+    "buying_price": "450000",
+    "vehicle_category_ntv": false,
+    "true_value_checklist_done": true,
+    "upload_photo_images": [],
+    "driving_experience": "Poor",
+    "evaluator_rating": "2",
+    "comment": "NA",
+    "time_spent": {
+      "$numberLong": "40"
+    }
+  },
+  "pricing": {
+    "customer_expected_price": "600000",
+    "evaluator_quoted_price": "450000",
+    "referencePriceMin": "362960",
+    "referencePriceMax": "446399",
+    "isNonTrueValue": false,
+    "non_true_value_reason": ""
+  },
+  "isTrvVehicle": true,
+  "isMsilVehicle": true,
+  "evalSubmissionDate": {
+    "$date": "2025-06-14T06:03:25.119Z"
+  },
+  "evalStartDate": {
+    "$date": "2025-06-14T05:52:21.224Z"
+  },
+  "certSubmissionDate": {
+    "$date": "2025-08-30T04:39:43.421Z"
+  },
+  "certStartDate": {
+    "$date": "2025-08-23T12:51:23.363Z"
+  },
+  "evalName": "CHETAN L JETHAVA",
+  "evaluator_designation": "Evaluator (Visiting)",
+  "evaluator_mobile_number": "9601588029",
+  "evalMspin": "556556",
+  "dmsBuyingId": "B25017064083",
+  "dmsSubmissionResponse": "Vehicle submitted to MSIL for certification",
+  "dmsSubmissionStatus": "Success",
+  "dealerInfo": {
+    "dealerMapCode": "50198",
+    "compCd": "KIRA",
+    "cityCode": "046",
+    "compFa": "KIRA",
+    "cityDesc": "AHMEDABAD",
+    "address": "PLOT NO. 48/1/2/2,",
+    "muleCode": "01TC",
+    "regionCd": "W3",
+    "forCode": "01",
+    "name": "KIRAN MOTORS LTD",
+    "stateCd": "GJ",
+    "zone": "W",
+    "locCode": "APN",
+    "location": "AHMEDABAD-Prahalad Nagar",
+    "parentGroup": "KIRAN",
+    "outletCode": "0T",
+    "pin": "380015",
+    "stateDesc": "Gujarat",
+    "region": "WEST 3",
+    "phone": "9898596768"
+  },
+  "certificationQuoteId": "Q-RTjHPFzN5l",
+  "dmsTrvStatus": false,
+  "buyingDate": {
+    "$date": "2025-06-30T20:02:00.000Z"
+  },
+  "rfDate": {
+    "$date": "2025-08-20T16:14:00.000Z"
+  },
+  "agl_certification_data": {
+    "agl_status": true,
+    "image_validate": true,
+    "in_elastic": false,
+    "rm_certification_rejection_code": "",
+    "rm_certification_rejection_code_description": "",
+    "rm_accept_comment": "",
+    "rm_action_date": {
+      "$date": "2025-08-31T05:44:22.000Z"
+    },
+    "tm_certification_status": "CP1",
+    "tm_accept_comment": "",
+    "tm_action_date": {
+      "$date": "2025-08-31T02:27:55.000Z"
+    },
+    "tesm_id": "267031",
+    "msil_certification_rejection_code": "",
+    "msil_certification_rejection_code_description": "",
+    "msil_certification_rejection_description": "",
+    "msil_certification_status": "CR",
+    "certification_rejection_code": "",
+    "certification_rejection_code_description": "",
+    "certification_rejection_description": "",
+    "certification_status": "Accept",
+    "certification_comment": "",
+    "agl_rejected_images": []
+  },
+  "dmsCertificationStatus": "CR",
+  "dmsCertificationStatusDescription": "Approved",
+  "isCreatedWithoutEvalData": false,
+  "mobile": "9723088417",
+  "designation": "TV RF Cordinator",
+  "certifierName": "GAURAV PATEL",
+  "dmsAsyncMessage": "Certification submitted succesfully",
+  "dmsAsyncStatus": "SUBMITTED",
+  "dmsAsyncMessageAGL": "Successfully accepted by RM",
+  "dmsAsyncStatusAGL": "Approved",
+  "createdDate": {
+    "$date": "2025-08-23T12:51:23.353Z"
+  },
+  "modifiedDate": {
+    "$date": "2025-08-31T05:44:23.763Z"
+  },
+  "modifiedBy": "admin",
+  "_class": "com.maruti.trv.domain.entities.Certification"
 }
-
- 
